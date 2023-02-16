@@ -15,3 +15,6 @@ Este projeto é aberto a contribuições. Se você deseja contribuir, sinta-se �
 
 # Licença
 Este projeto está licenciado por mim para qualquer uso.
+
+# Dowload para texte
+aqui esta um dowload para testes do primeiro app caso tenha pulls vou atualizando o dowload: https://www.mediafire.com/file/gt1vs0lblsi2bja/Gerador.jar/file
